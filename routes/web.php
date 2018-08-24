@@ -15,4 +15,4 @@
 
 // Route::get('/about', 'HomeController@about');
 // Route::resource('/songs', 'SongsController');
-Route::resource('/todo', 'todosController');
+// Route::resource('/todo', 'todosController');
